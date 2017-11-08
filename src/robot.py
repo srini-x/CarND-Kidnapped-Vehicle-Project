@@ -100,7 +100,7 @@ myrobot = robot()
 myrobot = myrobot.move(0.1, 5.0)
 Z = myrobot.sense()
 N = 1000
-T = 10  # Leave this as 10 for grading purposes.
+T = 10
 
 p = []
 for i in range(N):
